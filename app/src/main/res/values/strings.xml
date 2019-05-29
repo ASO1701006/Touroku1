@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Touroku1</string>
+    <string name="text1">紹介文を入力</string>
+    <string name="text2">写真を選択してください</string>
+    <string name="bu1">＋</string>
+    <string name="text3">服のジャンルを選択してください</string>
+    <string name="ch1">カジュアル</string>
+    <string name="ch2">きれいめ</string>
+    <string name="ch3">ストリート</string>
+    <string name="ch4">モード</string>
+    <string name="ch5">レトロ</string>
+    <string name="ch6">ビジネス</string>
+    <string name="ch7">ビジュアル</string>
+    <string name="ch8">ギャル</string>
+    <string name="ch9">原宿</string>
+    <string name="ch10">ロック</string>
+    <string name="ch11">アメリカンカジュアル</string>
+    <string name="ch12">その他</string>
+    <string name="text4">目的</string>
+    <string name="text5">時間帯</string>
+    <string name="text6">年齢層</string>
+    <string name="text7">要望及び備考</string>
+    <string name="bu2">キャンセル</string>
+    <string name="要望">内容</string>
+    <string name="目的">内容</string>
+    <string name="textview" />
+</resources>
